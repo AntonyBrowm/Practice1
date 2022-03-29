@@ -1,0 +1,22 @@
+[2022-03-29 16:39:50.735] [remoteagent] [info] Extension host agent started.
+[2022-03-29 16:39:51.103] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] New connection established.
+[2022-03-29 16:39:51.321] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] New connection established.
+[2022-03-29 16:39:51.326] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] <55670> Launched Extension Host Process.
+[2022-03-29 17:03:35.854] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-29 17:05:42.699] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-29 17:05:42.700] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 17:05:44.863] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.
+[2022-03-29 17:24:58.623] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 17:24:58.790] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.
+[2022-03-29 17:41:50.949] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-29 17:43:29.170] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-29 17:43:29.170] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 17:43:29.353] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.
+[2022-03-29 17:51:01.469] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 17:51:01.651] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.
+[2022-03-29 18:01:48.727] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 18:01:48.905] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.
+[2022-03-29 18:03:33.841] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 18:03:34.536] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.
+[2022-03-29 18:11:25.483] [remoteagent] [info] [127.0.0.1][979d7290][ManagementConnection] The client has reconnected.
+[2022-03-29 18:11:30.649] [remoteagent] [info] [127.0.0.1][bd2d0fb7][ExtensionHostConnection] The client has reconnected.

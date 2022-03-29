@@ -1,0 +1,48 @@
+node1/node11/node111/greatgatsby.txt:with delight, and smoothed her hair, whereupon Gatsby sat down and
+node1/node11/greatgatsby.txt:with delight, and smoothed her hair, whereupon Gatsby sat down and
+node1/node12/aliceinworderland.txt:She's tired, poor thing; smooth her hair--lend her your night cap--and
+node1/node13/node131/aliceinworderland.txt:She's tired, poor thing; smooth her hair--lend her your night cap--and
+node1/node13/node132/node1321/sherlockh.txt:inches, and the left one with the smooth patch near the elbow where you
+node1/node13/node132/node1321/sherlockh.txt:that this smooth-faced pawnbroker’s assistant was a formidable man—a
+node1/node13/node132/node1321/sherlockh.txt:He snatched it from her in his eagerness, and smoothing it out upon
+node1/node13/node132/node1321/sherlockh.txt:smooth-skinned, rubbing his eyes, and staring about him with sleepy
+node1/node13/node132/node1321/sherlockh.txt:until at last he smoothed one out, doubled it over, and read the
+node1/node13/node132/node1321/sherlockh.txt:for the crisp smoothness of a gravel-drive, and the carriage came to
+node1/node13/node132/node1321/lesmiserables.txt:was perfectly smooth upon his temples, and he had just mounted the
+node1/node13/node132/node1321/lesmiserables.txt:string of her chemise, and smoothed her hair back under her cap. That
+node1/node13/node132/node1321/lesmiserables.txt:beautiful pink dress, that beautiful smooth hair, and she thought, “How
+node1/node13/node132/node1321/lesmiserables.txt:Then drawing them, one after the other to her knees, smoothing their
+node1/node13/node132/node1321/lesmiserables.txt:enough to smooth out the wrinkles of all their ancestresses, those of
+node1/node13/node132/node1321/lesmiserables.txt:She smoothed her hair with the palm of her hand, and smiled into the
+node1/node13/node132/node1321/lesmiserables.txt:The eye, however, has perceived no change; the immense beach is smooth
+node1/node13/node132/node1321/lesmiserables.txt:smooth, limpid and simple surface; there was nothing incomprehensible,
+node1/node13/node132/node1321/lesmiserables.txt:Jean Valjean did everything, smoothed away every difficulty, arranged
+node1/node13/node132/node1321/lesmiserables.txt:shaved, combed, waked, smoothed, rubbed, brushed, cleaned on the
+node1/sherlockholmes.txt:inches, and the left one with the smooth patch near the elbow where you
+node1/sherlockholmes.txt:that this smooth-faced pawnbroker’s assistant was a formidable man—a
+node1/sherlockholmes.txt:He snatched it from her in his eagerness, and smoothing it out upon
+node1/sherlockholmes.txt:smooth-skinned, rubbing his eyes, and staring about him with sleepy
+node1/sherlockholmes.txt:until at last he smoothed one out, doubled it over, and read the
+node1/sherlockholmes.txt:for the crisp smoothness of a gravel-drive, and the carriage came to
+node2/node22/node222/node2221/adventuresofh.txt:by scattering dust on the place, which covered up the smoothness and the
+node2/node22/node222/node2221/adventuresofh.txt:minute--'twas pleasure, mainly, I judged--then his face sort of smoothed
+node2/node22/node222/node2221/adventuresofh.txt:they slid along so quiet and smooth and lovely. Here is the way we put
+node2/node22/node222/node2221/adventuresofh.txt:the little things that smooths people's roads the most, down here below;
+node2/node22/node222/node2221/adventuresofh.txt:big yard, but mostly it was bare and smooth, like an old hat with the
+node2/node22/node223/node2231/adventuresofh.txt:by scattering dust on the place, which covered up the smoothness and the
+node2/node22/node223/node2231/adventuresofh.txt:minute--'twas pleasure, mainly, I judged--then his face sort of smoothed
+node2/node22/node223/node2231/adventuresofh.txt:they slid along so quiet and smooth and lovely. Here is the way we put
+node2/node22/node223/node2231/adventuresofh.txt:the little things that smooths people's roads the most, down here below;
+node2/node22/node223/node2231/adventuresofh.txt:big yard, but mostly it was bare and smooth, like an old hat with the
+node2/metamorphosis.txt:eight o’clock. The first few times he tried to climb up on the smooth
+node3/node31/node313/node3132/lesmiserables.txt:was perfectly smooth upon his temples, and he had just mounted the
+node3/node31/node313/node3132/lesmiserables.txt:string of her chemise, and smoothed her hair back under her cap. That
+node3/node31/node313/node3132/lesmiserables.txt:beautiful pink dress, that beautiful smooth hair, and she thought, “How
+node3/node31/node313/node3132/lesmiserables.txt:Then drawing them, one after the other to her knees, smoothing their
+node3/node31/node313/node3132/lesmiserables.txt:enough to smooth out the wrinkles of all their ancestresses, those of
+node3/node31/node313/node3132/lesmiserables.txt:She smoothed her hair with the palm of her hand, and smiled into the
+node3/node31/node313/node3132/lesmiserables.txt:The eye, however, has perceived no change; the immense beach is smooth
+node3/node31/node313/node3132/lesmiserables.txt:smooth, limpid and simple surface; there was nothing incomprehensible,
+node3/node31/node313/node3132/lesmiserables.txt:Jean Valjean did everything, smoothed away every difficulty, arranged
+node3/node31/node313/node3132/lesmiserables.txt:shaved, combed, waked, smoothed, rubbed, brushed, cleaned on the
+node3/node31/node313/node3133/metamorphosis.txt:eight o’clock. The first few times he tried to climb up on the smooth

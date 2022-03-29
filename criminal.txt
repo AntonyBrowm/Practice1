@@ -1,0 +1,74 @@
+node1/node11/node111/greatgatsby.txt:“You don’t understand,” explained the criminal. “I wasn’t driving.
+node1/node11/greatgatsby.txt:“You don’t understand,” explained the criminal. “I wasn’t driving.
+node1/node13/node132/node1321/sherlockh.txt:ready-handed criminal agent, as it was possible to conceive. In his
+node1/node13/node132/node1321/sherlockh.txt:rather have my bracelets on him than on any criminal in London. He’s a
+node1/node13/node132/node1321/sherlockh.txt:more daring criminals of London should take a considerable interest in
+node1/node13/node132/node1321/sherlockh.txt:and most daring criminals in London. He was doing something in the
+node1/node13/node132/node1321/sherlockh.txt:circumstantial evidence pointed to a criminal it does so here.”
+node1/node13/node132/node1321/sherlockh.txt:“Who was the criminal, then?”
+node1/node13/node132/node1321/sherlockh.txt:to the personality of the criminal.”
+node1/node13/node132/node1321/sherlockh.txt:be striking and bizarre without being criminal. We have already had
+node1/node13/node132/node1321/sherlockh.txt:the first of criminals. He has nerve and he has knowledge. Palmer and
+node1/node13/node132/node1321/sherlockh.txt:But the inspector was mistaken, for those criminals were not destined
+node1/node13/node132/node1321/sherlockh.txt:nothing except the criminal news and the agony column. The latter is
+node1/node13/node132/node1321/sherlockh.txt:the great cases are past. Man, or at least criminal man, has lost all
+node1/node13/node132/node1321/lesmiserables.txt:One day he heard a criminal case, which was in preparation and on the
+node1/node13/node132/node1321/lesmiserables.txt:ill. A priest was needed to attend the criminal in his last moments.
+node1/node13/node132/node1321/lesmiserables.txt:upon his neck, side by side with the criminal bound with cords.
+node1/node13/node132/node1321/lesmiserables.txt:sixty-six of the code of criminal examination, I am the judge. I order
+node1/node13/node132/node1321/lesmiserables.txt:criminal in the presence of his judge, until it should please the mayor
+node1/node13/node132/node1321/lesmiserables.txt:interest in this affair? Is it a criminal case? Are you a witness?”
+node1/node13/node132/node1321/lesmiserables.txt:of silence, where all the apparatus of a criminal case, with its petty
+node1/node13/node132/node1321/lesmiserables.txt:a criminal who has broken his ban, and not the frightful chastisement
+node1/node13/node132/node1321/lesmiserables.txt:am fulfilling a duty; I am that miserable criminal. I am the only one
+node1/node13/node132/node1321/lesmiserables.txt:and was condemned to the death penalty in consequence. This criminal
+node1/node13/node132/node1321/lesmiserables.txt:and was reputed dead, on a criminal whom justice had formerly classed
+node1/node13/node132/node1321/lesmiserables.txt:two or three months, came to Paris on the sly, like a criminal breaking
+node1/node13/node132/node1321/lesmiserables.txt:Bigrenaille, figured later on in many criminal trials, and became a
+node1/node13/node132/node1321/lesmiserables.txt:a death sentence and passed the night in revising a criminal suit,
+node1/node13/node132/node1321/lesmiserables.txt:criminal, who is one of the most generous figures of our day: “His
+node1/node13/node132/node1321/lesmiserables.txt:criminal than a Vendean is a ruffian. Let us, then, impute to the
+node1/node13/node132/node1321/lesmiserables.txt:are losing the sense of their criminality, and that they feel, even
+node1/node13/node132/node1321/lesmiserables.txt:mute, with pendant arms and the face of a criminal; M. Gillenormand was
+node1/node13/node132/node1321/lesmiserables.txt:were visible genuine visages of criminals and ignoble mouths which
+node1/node13/node132/node1321/lesmiserables.txt:And he paused. One would have said that they were two criminals.
+node1/node13/node132/node1321/lesmiserables.txt:criminal, who is in the path of repentance, may be scrupulous in the
+node1/node13/node132/node1321/lesmiserables.txt:that old criminal?
+node1/node13/node132/node1321/lesmiserables.txt:trace of things and of bringing home the crime to the criminal. He put
+node1/node13/node132/node1321/lesmiserables.txt:which the bodies of executed criminals were dragged by hooks to be
+node1/sherlockholmes.txt:ready-handed criminal agent, as it was possible to conceive. In his
+node1/sherlockholmes.txt:rather have my bracelets on him than on any criminal in London. He’s a
+node1/sherlockholmes.txt:more daring criminals of London should take a considerable interest in
+node1/sherlockholmes.txt:and most daring criminals in London. He was doing something in the
+node1/sherlockholmes.txt:circumstantial evidence pointed to a criminal it does so here.”
+node1/sherlockholmes.txt:“Who was the criminal, then?”
+node1/sherlockholmes.txt:to the personality of the criminal.”
+node1/sherlockholmes.txt:be striking and bizarre without being criminal. We have already had
+node1/sherlockholmes.txt:the first of criminals. He has nerve and he has knowledge. Palmer and
+node1/sherlockholmes.txt:But the inspector was mistaken, for those criminals were not destined
+node1/sherlockholmes.txt:nothing except the criminal news and the agony column. The latter is
+node1/sherlockholmes.txt:the great cases are past. Man, or at least criminal man, has lost all
+node3/node31/node313/node3132/lesmiserables.txt:One day he heard a criminal case, which was in preparation and on the
+node3/node31/node313/node3132/lesmiserables.txt:ill. A priest was needed to attend the criminal in his last moments.
+node3/node31/node313/node3132/lesmiserables.txt:upon his neck, side by side with the criminal bound with cords.
+node3/node31/node313/node3132/lesmiserables.txt:sixty-six of the code of criminal examination, I am the judge. I order
+node3/node31/node313/node3132/lesmiserables.txt:criminal in the presence of his judge, until it should please the mayor
+node3/node31/node313/node3132/lesmiserables.txt:interest in this affair? Is it a criminal case? Are you a witness?”
+node3/node31/node313/node3132/lesmiserables.txt:of silence, where all the apparatus of a criminal case, with its petty
+node3/node31/node313/node3132/lesmiserables.txt:a criminal who has broken his ban, and not the frightful chastisement
+node3/node31/node313/node3132/lesmiserables.txt:am fulfilling a duty; I am that miserable criminal. I am the only one
+node3/node31/node313/node3132/lesmiserables.txt:and was condemned to the death penalty in consequence. This criminal
+node3/node31/node313/node3132/lesmiserables.txt:and was reputed dead, on a criminal whom justice had formerly classed
+node3/node31/node313/node3132/lesmiserables.txt:two or three months, came to Paris on the sly, like a criminal breaking
+node3/node31/node313/node3132/lesmiserables.txt:Bigrenaille, figured later on in many criminal trials, and became a
+node3/node31/node313/node3132/lesmiserables.txt:a death sentence and passed the night in revising a criminal suit,
+node3/node31/node313/node3132/lesmiserables.txt:criminal, who is one of the most generous figures of our day: “His
+node3/node31/node313/node3132/lesmiserables.txt:criminal than a Vendean is a ruffian. Let us, then, impute to the
+node3/node31/node313/node3132/lesmiserables.txt:are losing the sense of their criminality, and that they feel, even
+node3/node31/node313/node3132/lesmiserables.txt:mute, with pendant arms and the face of a criminal; M. Gillenormand was
+node3/node31/node313/node3132/lesmiserables.txt:were visible genuine visages of criminals and ignoble mouths which
+node3/node31/node313/node3132/lesmiserables.txt:And he paused. One would have said that they were two criminals.
+node3/node31/node313/node3132/lesmiserables.txt:criminal, who is in the path of repentance, may be scrupulous in the
+node3/node31/node313/node3132/lesmiserables.txt:that old criminal?
+node3/node31/node313/node3132/lesmiserables.txt:trace of things and of bringing home the crime to the criminal. He put
+node3/node31/node313/node3132/lesmiserables.txt:which the bodies of executed criminals were dragged by hooks to be
